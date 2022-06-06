@@ -10,6 +10,8 @@ img{
     max-width: 100%;
 }
 
+/* This is a comment */
+
 :root{
     --Soft-red: hsl(7, 99%, 70%);
 --Yellow: hsl(51, 100%, 49%);
